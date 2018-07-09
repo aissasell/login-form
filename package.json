@@ -1,0 +1,12 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "A free login form",
+  "author": "aissasell@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
